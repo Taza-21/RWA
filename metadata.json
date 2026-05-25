@@ -1,0 +1,6 @@
+{
+  "name": "KAIO Ecosystem Platform",
+  "description": "A high-fidelity interactive replication of the KAIO institutional RWA yields platform with custom branding toggles (Tether, Teeth, TTEH) and Taza Allam footer credit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
